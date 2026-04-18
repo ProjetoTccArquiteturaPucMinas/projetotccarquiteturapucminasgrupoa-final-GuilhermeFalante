@@ -1,6 +1,6 @@
 # Sistema de Cálculo de Descontos para Marketplace
 
-## Seu Nome: 
+## Seu Nome: João Guilherme Falante Araújo
 
 ## Visão Geral do Projeto
 
